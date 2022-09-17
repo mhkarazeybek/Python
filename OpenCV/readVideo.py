@@ -1,5 +1,4 @@
-import cv2
-import numpy as np
+import cv2 ,numpy as np
 cap = cv2.VideoCapture(0)
 #cap = cv2.VideoCapture("opencv.mp4")
 

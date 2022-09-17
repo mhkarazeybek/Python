@@ -1,5 +1,4 @@
-import cv2
-import numpy as np
+import cv2 ,numpy as np
 image = cv2.imread("../images/python.jpg")
 
 blue = (255, 0, 0)
