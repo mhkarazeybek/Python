@@ -1,6 +1,6 @@
 #mouse ile herhangi bir objenin üzerine tıklayıp hareket ettirebilirsiniz
-import cv2
-import numpy as np
+import cv2 ,numpy as np
+
 
 cap = cv2.VideoCapture(0)
 
